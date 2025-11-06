@@ -1,4 +1,4 @@
-package org.pro5383.alwayssprint.client;
+package org.pro5383.always_sprint.client;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;
